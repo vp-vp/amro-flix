@@ -83,7 +83,7 @@ npm run start
 
 ### Product fetaures
 
-- [ ] Search by people as well  
+- [ ] Search by [show](https://www.tvmaze.com/api#show-search) & [people](https://www.tvmaze.com/api#people-search)  
 - [ ] Similar shows  
 - [ ] i18n  
 - [ ] AuthN  
